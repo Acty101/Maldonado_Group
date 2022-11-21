@@ -1,4 +1,4 @@
-# Analyzing cyclic voltammograms using a neural network with TensorFlow 2 (Maldonado Lab)
+# Analyzing cyclic voltammograms using a neural network with TensorFlow 2
 
 *What is a cylic voltammogram? Here is an example below (IUPAC convention)<sup>1</sup>:*
 <img src="https://cdn.shopify.com/s/files/1/0823/0287/files/cyclic-voltammogram-ferrocene-labelled_848x547.png?v=1644831341" alt="example_cylic_voltammogram" width="600"/> <sup>figure 1</sup>
